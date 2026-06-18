@@ -256,3 +256,4 @@ Server lists, useful to promote your server or discover new servers to play on.
 - [40ServidoresMC](http://40servidoresmc.es/)
 - [MinecraftServers](https://minecraftservers.org/)
 - [NameMC](https://namemc.com/)
+- [SpawnList](https://spawnlist.net/) — daily-randomized listing so every server gets fair exposure; Votifier supported
