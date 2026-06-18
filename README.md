@@ -764,6 +764,7 @@ Server lists are useful for discovery and marketing, but they vary heavily in qu
 - [TopG](https://topg.org/minecraft-servers/) — Server list covering multiple games.
 - [Planet Minecraft Servers](https://www.planetminecraft.com/servers/) — Community server listings.
 - [Servers-Minecraft](https://servers-minecraft.net/) — Server listing platform.
+- [SpawnList](https://spawnlist.net/) — Daily-randomized server directory; every server gets fair exposure regardless of vote count. Votifier supported.
 
 ---
 
