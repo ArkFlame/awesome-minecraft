@@ -66,6 +66,7 @@ A resource should not be included when it is primarily a piracy launcher, a rand
   - [Bedrock Server Software](#bedrock-server-software)
   - [Legacy Server Software](#legacy-server-software)
 - [Proxies and Crossplay](#proxies-and-crossplay)
+ - [Server Wrappers & Panels](#server-wrappers--panels)
 - [Plugins](#plugins)
   - [Core Administration](#core-administration)
   - [Permissions Economy and Placeholders](#permissions-economy-and-placeholders)
@@ -274,6 +275,12 @@ Hybrid servers can load both mods and plugins, but they are not a magic compatib
 - [Floodgate](https://geysermc.org/) — Bedrock authentication bridge for Geyser.
 - [ViaProxy](https://github.com/ViaVersion/ViaProxy) — ViaVersion standalone proxy for protocol translation and testing.
 - [Hopper](https://github.com/BRA1L0R/hopper-rs) — Lightweight Minecraft reverse proxy written in Rust. **Specialized**
+
+---
+
+## Server Wrappers & Panels
+
+- [CubeLauncher](https://github.com/CTPAX4OK/CubeLauncher) - A modern, lightweight, and beautiful open-source desktop launcher template for your Minecraft servers, built with Next.js and Electron.
 
 ---
 
