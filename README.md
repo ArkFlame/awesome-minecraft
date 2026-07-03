@@ -634,6 +634,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 
 - [Blockbench](https://www.blockbench.net/) — Low-poly model editor used heavily for Minecraft models. **Recommended**
 - [Blockbench GitHub](https://github.com/JannisX11/blockbench) — Source repository.
+- [BlockMosaic](https://mcimagetool.com) — Browser tool that turns any image into Minecraft pixel art or map art, with a block shopping list and .litematic/.schem export.
 - [PackSquash](https://github.com/ComunidadAylas/PackSquash) — Resource and data pack optimizer. **Recommended**
 - [OptiGUI](https://modrinth.com/mod/optigui) — Custom GUI texture rules.
 - [Animated Java](https://animated-java.dev/) — Blockbench animation workflow for Java Edition.
