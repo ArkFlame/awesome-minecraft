@@ -648,6 +648,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Data Pack Upgrader](https://misode.github.io/upgrader/) — Data pack migration tooling.
 - [Spyglass](https://github.com/SpyglassMC/Spyglass) — Language server and tooling for Minecraft data packs.
 - [sandstone](https://github.com/TheMrZZ/sandstone) — TypeScript framework for data packs.
+- [Minecraft Calculator](https://minecraft-calculator.keufcp.jp.eu.org/en) — A set of Minecraft math tools.
 
 ### World Editing and Inspection
 
