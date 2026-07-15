@@ -638,6 +638,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [OptiGUI](https://modrinth.com/mod/optigui) — Custom GUI texture rules.
 - [Animated Java](https://animated-java.dev/) — Blockbench animation workflow for Java Edition.
 - [Mine-imator](https://www.mineimator.com/) — Minecraft animation software.
+- [BlockMosaic](https://mcimagetool.com) — Converts any image into a Minecraft block palette, generating a block shopping list and exporting the build as a `.litematic`/`.schem` schematic. **Commercial** (free tier)
 - [Chunky](https://chunky-dev.github.io/docs/) — Path-traced Minecraft renderer.
 
 ### Data Packs Commands and Generators
