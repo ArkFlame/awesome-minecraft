@@ -737,6 +737,8 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [PrismarineJS Docs](https://prismarinejs.github.io/) — Documentation for PrismarineJS projects.
 - [wiki.vg Historical Mirror](https://c4k3.github.io/wiki.vg/) — Historical protocol documentation. **Legacy**
 
+- [Verity Mod Checker](https://veritymodchecker.online/) — Independent source, version, and local SHA-256 checker for the Verity Java and Bedrock projects, with status-code troubleshooting. **Specialized**
+
 ---
 
 ## Communities
