@@ -498,6 +498,7 @@ Useful references:
 - [Official Minecraft Launcher](https://www.minecraft.net/en-us/download) — Official launcher. **Recommended baseline**
 - [Prism Launcher](https://prismlauncher.org/) — Open-source launcher for managing instances, accounts, and mods. **Recommended**
 - [Modrinth App](https://modrinth.com/app) — Open-source launcher integrated with Modrinth.
+- [Onyx Launcher](https://github.com/lonestill/onyx-launcher) — Open-source Windows and Linux launcher with isolated instances, Modrinth integration, automatic Java, crash diagnostics, and safe backups. **Experimental**
 - [ATLauncher](https://atlauncher.com/) — Long-running launcher with modpack support.
 - [GDLauncher](https://gdlauncher.com/) — Modern launcher with modpack workflows.
 - [MultiMC](https://multimc.org/) — Lightweight instance-based launcher. **Legacy / power-user**
