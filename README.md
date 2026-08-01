@@ -733,6 +733,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [PacketEvents Docs](https://docs.packetevents.com/) — PacketEvents documentation.
 - [Geyser Wiki](https://wiki.geysermc.org/) — Geyser and Floodgate setup docs.
 - [Minecraft Wiki](https://minecraft.wiki/) — Community wiki now hosted independently from Fandom. **Recommended**
+- [CraftQuiver](https://craftquiver.com/) — Crafting recipe reference with a material calculator for any item and quantity, shareable resource lists, an anvil enchantment cost optimizer and a Nether/Overworld coordinate converter. **Specialized**
 - [Java Edition Protocol](https://minecraft.wiki/w/Java_Edition_protocol) — Protocol documentation.
 - [PrismarineJS Docs](https://prismarinejs.github.io/) — Documentation for PrismarineJS projects.
 - [wiki.vg Historical Mirror](https://c4k3.github.io/wiki.vg/) — Historical protocol documentation. **Legacy**
