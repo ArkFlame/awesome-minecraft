@@ -503,6 +503,7 @@ Useful references:
 - [MultiMC](https://multimc.org/) — Lightweight instance-based launcher. **Legacy / power-user**
 - [CurseForge App](https://www.curseforge.com/download/app) — CurseForge modpack launcher.
 - [FTB App](https://www.feed-the-beast.com/ftb-app) — Feed The Beast launcher.
+- [Obsy Launcher](https://github.com/obsy-official/obsy-launcher) — A blazing-fast, lightweight, and modern cross-platform Minecraft launcher.
 
 Avoid launchers that bypass Microsoft/Mojang authentication or request credentials in non-standard ways.
 
