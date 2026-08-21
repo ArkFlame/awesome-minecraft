@@ -761,6 +761,7 @@ Server lists are useful for discovery and marketing, but they vary heavily in qu
 - [NameMC](https://namemc.com/minecraft-servers) — Server list and profile platform.
 - [MinecraftServers.org](https://minecraftservers.org/) — Long-running server list.
 - [Minecraft Server List](https://minecraft-server-list.com/) — Server list and voting platform.
+- [ServerBuddy](https://serverbuddy.net/) — Free Java and Bedrock server directory with live status, player-count history, uptime, MOTD, and version history. **Specialized**
 - [TopG](https://topg.org/minecraft-servers/) — Server list covering multiple games.
 - [Planet Minecraft Servers](https://www.planetminecraft.com/servers/) — Community server listings.
 - [Servers-Minecraft](https://servers-minecraft.net/) — Server listing platform.
