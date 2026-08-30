@@ -639,6 +639,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Animated Java](https://animated-java.dev/) — Blockbench animation workflow for Java Edition.
 - [Mine-imator](https://www.mineimator.com/) — Minecraft animation software.
 - [Chunky](https://chunky-dev.github.io/docs/) — Path-traced Minecraft renderer.
+- [Minecraft Skin Lab](https://minecraftskinlab.com/) — Browser-based skin editor with mirror painting, layers, and 128x128 HD export, plus a skin library and cape, PFP, and banner generators. **Specialized**
 
 ### Data Packs Commands and Generators
 
