@@ -666,6 +666,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Prism Launcher](https://prismlauncher.org/) — Useful for isolated modpack testing.
 - [Modrinth App](https://modrinth.com/app) — Useful for Modrinth-first pack workflows.
 - [CurseForge App](https://www.curseforge.com/download/app) — Useful for CurseForge pack workflows.
+- [MRPack Converter](https://mrpackconverter.com/) — Browser-based conversion and inspection for Modrinth MRPack and CurseForge modpack archives, with local file processing. **Specialized**
 - [PackSquash](https://github.com/ComunidadAylas/PackSquash) — Optimizes generated resource and data packs.
 
 ---
