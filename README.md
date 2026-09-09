@@ -365,6 +365,7 @@ Hybrid servers can load both mods and plugins, but they are not a magic compatib
 - [TCPShield Plugin](https://github.com/TCPShield/RealIP) — Real IP forwarding support for TCPShield-protected networks.
 - [AuthMe Premium](https://builtbybit.com/resources/authme-premium-geyser-java.44493/) — AuthMe add-on for premium-player auto-login, Bungee/Velocity auth flows, and Geyser/Floodgate Bedrock authentication workflows. **Commercial / Specialized**
 - [ExploitFixer](https://www.exploitfixer.org/) — Packet exploit, crash-client, malformed packet, invalid NBT, and dupe protection for Spigot, Paper, Folia, and related forks. **Commercial / Specialized**
+- [Solar JAR Scanner](https://github.com/janibert1/mc-jar-scanner) — Free, client-side (no upload, no backend) scanner for the "Solar" JAR infector, an undocumented malware campaign that hit multiple German Minecraft networks in 2026 and wasn't caught by existing anti-malware plugins at the time. Drop plugin/server JARs in for a clean/hit result per file. **Specialized**
 
 ### Anti-Cheat
 
