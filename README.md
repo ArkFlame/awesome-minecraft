@@ -765,6 +765,7 @@ Server lists are useful for discovery and marketing, but they vary heavily in qu
 - [TopG](https://topg.org/minecraft-servers/) — Server list covering multiple games.
 - [Planet Minecraft Servers](https://www.planetminecraft.com/servers/) — Community server listings.
 - [Servers-Minecraft](https://servers-minecraft.net/) — Server listing platform.
+- [BestMCServerList](https://bestmcserverlist.net/) — New, free server list for Java and Bedrock with voting and Votifier/NuVotifier rewards, plus free browser tools for server owners (MOTD, server icon, rank and GUI designers).
 
 ---
 
