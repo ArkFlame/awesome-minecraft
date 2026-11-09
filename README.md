@@ -648,6 +648,8 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [Data Pack Upgrader](https://misode.github.io/upgrader/) — Data pack migration tooling.
 - [Spyglass](https://github.com/SpyglassMC/Spyglass) — Language server and tooling for Minecraft data packs.
 - [sandstone](https://github.com/TheMrZZ/sandstone) — TypeScript framework for data packs.
+- [Minecraft Color Codes Generator](https://github.com/dannytheone/minecraft-color-codes) — § and & codes, hex colors and gradients with preview; output for MOTD, plugins, MiniMessage and tellraw JSON. Client-side, MIT.
+- [Minecraft MOTD Generator](https://github.com/dannytheone/minecraft-motd-generator) — Two-line server list MOTD with colors, formatting and preview; outputs the server.properties line. Client-side, MIT.
 
 ### World Editing and Inspection
 
