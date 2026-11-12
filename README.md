@@ -765,6 +765,7 @@ Server lists are useful for discovery and marketing, but they vary heavily in qu
 - [TopG](https://topg.org/minecraft-servers/) — Server list covering multiple games.
 - [Planet Minecraft Servers](https://www.planetminecraft.com/servers/) — Community server listings.
 - [Servers-Minecraft](https://servers-minecraft.net/) — Server listing platform.
+- [KarixMC](https://karixmc.pl/) — Beta Minecraft server directory with labelled first-party demo worlds and a documented Paper plugin setup. **Experimental / Commercial**
 
 ---
 
