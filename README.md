@@ -690,6 +690,7 @@ Removed from the main list: random direct downloads, abandoned PvP clients, and 
 - [AMP](https://cubecoders.com/AMP) — Commercial game server management panel.
 - [MCSManager](https://mcsmanager.com/) — Web panel for game server management.
 - [FeatherPanel](https://featherpanel.com/) — Open-source (AGPL-3.0) game server panel; servers run in Docker containers via the FeatherWings daemon.
+- [Minecraft Server Manager (MSM)](https://github.com/anefzaoui/minecraft-server-manager) — Open-source (MIT) self-hosted web panel for Minecraft Java servers; each server runs in its own itzg/minecraft-server Docker container, with pinned modpacks, backups and rollback. **Specialized**
 
 ### Backups
 
